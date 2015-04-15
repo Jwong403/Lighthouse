@@ -1,0 +1,36 @@
+<!doctypehtml>
+<html>
+<Head>
+<link rel="stylesheet" href="http://lighthouse.jquerycentral.com/css/blog-blue.css">
+<title> Jacky is the Coolest</title>
+</Head>
+  <body>
+    <header> <strong> Jacky Wong blog </strong> </Header> 
+      <img src="http://static.comicvine.com/uploads/original/1/19151/566009-umbrellacorporation3.png">
+        <section>
+          <h1> <em> I love webpages </em> </h1>
+          <h2> 2015-04-13</h2>
+          <h3> <span style="color: red;"> By: Jacky Wong </span> </h3>
+          <img src="http://placekitten.com/200/150">
+    <article>
+      <p> This website is going to be so awesome that people will want to buy this webpage when it is completed. Errrbody is going to be jealous.</p>
+      <p> <strong> Benny and Raymond love to Kiss each other.</strong> </p>
+      <p> <em> Its a shame that they have girlfriends... otherwise they would be in love with each other.</em> </p>
+    </article>          
+  <aside> 
+    <Section>
+      <h4> Widget </h4>
+  </aside>
+  <aside> 
+    <Section>
+      <h4> Widget </h4>
+  </aside>
+  <aside> 
+    <Section>
+      <h4> Widget </h4>
+  </aside>
+</section> 
+</body>
+</html>
+
+
