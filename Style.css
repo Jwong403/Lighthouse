@@ -1,0 +1,19 @@
+aside section h4{
+  color: blue;
+}
+aside section {
+  font-family: "Arial";
+  text-decoration: underline;
+  color: purple;
+  line-height: 100%;
+}
+.red {
+  color:#e81c1f;
+}
+section ul{
+  list-style-type: circle;
+}
+body{
+background-color:#999999;
+border-radius: 25px; 
+}

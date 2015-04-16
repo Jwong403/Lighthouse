@@ -1,12 +1,12 @@
 <!doctypehtml>
 <html>
-<Head>
-<link rel="stylesheet" href="http://lighthouse.jquerycentral.com/css/blog-blue.css">
-<title> Jacky is the Coolest</title>
-</Head>
+<Header>
+  <title> Jacky is the Coolest</title>
+   <link rel="stylesheet" href="Style.css">
+</Header>
   <body>
     <header> <strong> Jacky Wong blog </strong> </Header> 
-      <img src="http://static.comicvine.com/uploads/original/1/19151/566009-umbrellacorporation3.png">
+      <img src="http://s.mlkshk.com/r/U033">
         <section>
           <h1> <em> I love webpages </em> </h1>
           <h2> 2015-04-13</h2>
@@ -19,15 +19,23 @@
     </article>          
   <aside> 
     <Section>
-      <h4> Widget </h4>
+      <h4> My Pet </h4>
+        <p> Lucky </p>
+    </Section>    
   </aside>
   <aside> 
     <Section>
-      <h4> Widget </h4>
+      <h4> My Favourite Colour </h4>
+        <p>class="Blue"</p>
+    </Section>    
   </aside>
-  <aside> 
-    <Section>
-      <h4> Widget </h4>
+  <Section>
+      <ul> Bucket List
+        <li>Drive a Aventador</li>
+        <li>Graduate from University</li>
+        <li>Be a Baller</li>
+      </ul>
+    </Section>    
   </aside>
 </section> 
 </body>
